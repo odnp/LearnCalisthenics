@@ -1,4 +1,4 @@
-# Learn Calithenics
+# Learn Calisthenics
 
 ## Goals
 
