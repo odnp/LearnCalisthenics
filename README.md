@@ -1,4 +1,4 @@
-# Learn Calithenics
+# Learn Calisthenics
 
 ## Goals
 
@@ -12,7 +12,9 @@
 
 Body-weight Excercises Ranked by Difficulties (from: https://www.youtube.com/watch?v=ztE3o4TFLeU)
 
-Level 1 - Beginner:
+ ```
+ Level 1 - Beginner:
+ ```
 1. Cat cow
 2. Quadruped reach
 3. Jumping jacks
@@ -33,8 +35,9 @@ Level 1 - Beginner:
 18. Bodyrows (high)
 19. Incline push ups
 
-
-LEVEL 2 - Intermediate
+ ```
+ LEVEL 2 - Intermediate:
+ ```
 20. Active hang
 21. Russian twist
 22. Bulgarian split squats
@@ -66,7 +69,9 @@ LEVEL 2 - Intermediate
 48. Pull ups
 
 
-LEVEL 3 - Advanced
+ ```
+ LEVEL 3 - Advanced
+ ```
 49. Free handstand
 50. L-sit
 51. L-hang chin ups
@@ -88,7 +93,9 @@ LEVEL 3 - Advanced
 67. Bar muscle up
 
 
-LEVEL 4 - Expert
+ ```
+ LEVEL 4 - Expert
+ ```
 68. Straddle press
 69. Uneven pull ups
 70. Archer pull ups
@@ -109,8 +116,9 @@ LEVEL 4 - Expert
 85. 360 degree pulls
 86. One arm pull ups
 
-
-LEVEL 5 - Master
+ ```
+ LEVEL 5 - Master
+ ```
 87. Wide ring muscle ups
 88. Tiger bend handstand push ups
 89. Wide arm straddle press
